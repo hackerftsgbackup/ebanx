@@ -28,7 +28,7 @@ const (
 	CHECKER_URL = "https://gandalf.ebanx.com/accessToken"
 	CHECKER_URL2 = "https://conta.ebanx.com/api/v1/timeline?per_page=30"
 	CHECKER_URL3 = "https://conta.ebanx.com/api/v1/customer"
-	API_KEY = "318e67226fc480f642113786320c1e4f08be4987"
+	API_KEY = "d856f4bb7021e2584f3340c3fdeb4b0f1753ae9f"
 )
 
 type Checker struct {
